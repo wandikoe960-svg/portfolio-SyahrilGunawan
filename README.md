@@ -9,4 +9,4 @@
 3. Javascript
 
 ## Pembuat
-Project ini di buat oleh Syahril Gunawan
+Syahril Gunawan.
