@@ -7,3 +7,6 @@
 1. Html
 2. CSS
 3. Javascript
+
+## Pembuat
+Project ini di buat oleh Syahril Gunawan
